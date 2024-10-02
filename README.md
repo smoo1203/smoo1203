@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,nginx&theme=light)](https://skillicons.dev)
 
