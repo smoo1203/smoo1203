@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,nodejs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,nodejs,express,linux&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,jquery,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
