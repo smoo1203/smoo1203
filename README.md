@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 <!--
 **smoo1203/smoo1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
