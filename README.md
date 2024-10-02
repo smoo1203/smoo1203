@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-//기본 api호출이다.
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug&theme=light)](https://skillicons.dev)
