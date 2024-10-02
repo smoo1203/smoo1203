@@ -1,15 +1,19 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,jquery,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,sublime&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
 <!--
 **smoo1203/smoo1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
