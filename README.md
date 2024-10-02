@@ -2,6 +2,7 @@
 ## Hi there 👋
 -->
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,pug&theme=light)](https://skillicons.dev)
 
